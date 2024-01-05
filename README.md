@@ -1,4 +1,4 @@
-actorial Calculator (C)
+Factorial Calculator (C)
 
 This C program calculates the factorial of a given non-negative integer. It includes validation for negative numbers, as factorial is not defined for negative integers.
 
