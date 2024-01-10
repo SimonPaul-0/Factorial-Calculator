@@ -1,8 +1,8 @@
-Factorial Calculator (C)
+# Factorial Calculator (C)
 
 This C program calculates the factorial of a given non-negative integer. It includes validation for negative numbers, as factorial is not defined for negative integers.
 
-How to Use
+## How to Use
 
     Compile the Program:
         Ensure you have a C compiler installed (e.g., GCC).
@@ -27,6 +27,6 @@ Run the Program:
     View the Result:
         The program will display the factorial of the entered number.
 
-Note
+## Note
 
     Factorial is not defined for negative numbers, and the program will provide an error message for such inputs.
