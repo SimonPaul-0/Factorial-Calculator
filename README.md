@@ -17,6 +17,6 @@ This C program calculates the factorial of a given non-negative integer. It incl
 
 Execute the compiled program:
 
-    ```bash
+```bash
     gcc factorial.c -o factorial
 ```
