@@ -4,11 +4,12 @@ This C program calculates the factorial of a given non-negative integer. It incl
 
 ## 1. How to Use
 
+```    bash
     Compile the Program:
         Ensure you have a C compiler installed (e.g., GCC).
         Open a terminal and navigate to the directory containing the program.
         Compile the program using the following command:
-
+```
 
 
 
