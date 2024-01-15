@@ -19,7 +19,7 @@ Execute the compiled program:
     ```bash
 
     ./factorial
-    ```
+```
 
     Enter a Number:
     The program will prompt you to enter a number.
