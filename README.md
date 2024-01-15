@@ -2,7 +2,7 @@
 
 This C program calculates the factorial of a given non-negative integer. It includes validation for negative numbers, as the factorial is not defined for negative integers.
 
-### 1. How to Use
+## 1. How to Use
 
     Compile the Program:
         Ensure you have a C compiler installed (e.g., GCC).
@@ -13,16 +13,10 @@ This C program calculates the factorial of a given non-negative integer. It incl
 
 
 
-### 2. Run the Program:
+## 2. Run the Program
 
 Execute the compiled program:
+
     ```bash
-
-    ./factorial
+    gcc factorial.c -o factorial
 ```
-
-    Enter a Number:
-    The program will prompt you to enter a number.
-
-    View the Result:
-    The program will display the factorial of the entered number.
