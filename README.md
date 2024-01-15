@@ -1,3 +1,5 @@
+---
+
 # Factorial Calculator (C)
 
 This C program efficiently calculates the factorial of a given non-negative integer. It includes validation to handle negative numbers, as factorial is not defined for negative integers.
@@ -10,13 +12,13 @@ This C program efficiently calculates the factorial of a given non-negative inte
 - Compile the program using the following command:
 
   ```bash
-  gcc factorial.c -o factorial
+  gcc Factorial-Calculator.c -o Factorial-Calculator
   ```
 ### 2. Run the Program:
 - Execute the compiled program:
 
      ```bash
-     ./factorial
+     ./Factorial-Calculator
      ```
 - Enter a Number:
   The program will prompt you to enter a non-negative integer.
@@ -37,8 +39,12 @@ This C program efficiently calculates the factorial of a given non-negative inte
 ## License:
 This program is open-source and available under the MIT License.
 
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Feel free to contribute, report issues, or customize the program based on your specific project details.Bug fixes, feature enhancements, and code improvements are welcome.
+## Author
 ## Author
 
 [Simon Paul]
 
-Feel free to contribute, report issues, explore the code, and customize this program based on your specific project details.
+---
