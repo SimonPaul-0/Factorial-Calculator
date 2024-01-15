@@ -25,5 +25,5 @@ This C program calculates the factorial of a given non-negative integer. It incl
 - View the Result:
   The program will display the factorial of the entered number.
 
-  ## Author
-  [Simon Paul]
+## Author
+[Simon Paul]
