@@ -39,10 +39,9 @@ This C program efficiently calculates the factorial of a given non-negative inte
 ## License:
 This program is open-source and available under the MIT License.
 
-## Contributing
+## Contributions
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Feel free to contribute, report issues, or customize the program based on your specific project details.Bug fixes, feature enhancements, and code improvements are welcome.
-## Author
 ## Author
 
 [Simon Paul]
