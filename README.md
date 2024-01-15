@@ -9,9 +9,10 @@ This C program calculates the factorial of a given non-negative integer. It incl
         Open a terminal and navigate to the directory containing the program.
         Compile the program using the following command:
 
-    bash
+    ``` bash
 
     gcc factorial.c -o factorial
+    ```
 
 Run the Program:
 
