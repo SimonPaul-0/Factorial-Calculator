@@ -8,17 +8,16 @@ This C program calculates the factorial of a given non-negative integer. It incl
 - Open a terminal and navigate to the directory containing the program.
 - Compile the program using the following command:
 
-    ```bash
-    gcc factorial.c -o factorial
-    ```
+     ```bash
+     gcc factorial.c -o factorial
+     ```
 
 ### 2. Run the Program:
-
 - Execute the compiled program:
 
-    ```bash
-    ./factorial
-    ```
+     ```bash
+     ./factorial
+     ```
 
 - Enter a Number:
   The program will prompt you to enter a number.
